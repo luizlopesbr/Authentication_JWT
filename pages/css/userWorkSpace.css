@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    margin: 0 auto;
+    background-color:rgb(8, 80, 181);
+}
+
+.headerPage{
+    background-color: #ffbc42;
+    position: fixed;
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    gap: 1.0em;
+    align-items: center;
+}  
+
+.imgPerfil{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.imgPerfil img{
+    width: 3rem;
+    height: 3rem;
+    
+
+}
+
+.btnLogout{
+    padding: 5px 15px 5px 15px;
+}

@@ -1,0 +1,22 @@
+//Iniciar um projeto Node
+npm init -y
+
+//Instalar as bibliotecas necessárias
+
+npm install pg express dotenv cors jsonwebtokenbcrypt
+
+npm install cors
+
+--------------------
+"scripts": {
+    "start": "npx nodemon index.js"
+  }
+
+npm start
+
+--------------
+
+npm install jsonwebtoken
+
+npm intall bcrypt
+
