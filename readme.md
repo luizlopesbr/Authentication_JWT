@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Aprender um pouco sobre como integrar fron-end, back-end e persistir dados localmente.
+Aprender um pouco sobre como integrar Front-End, Back-End e persistir dados no DB localmente.
 
 ## 📌Sobre o Projeto
 
