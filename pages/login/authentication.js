@@ -12,8 +12,6 @@ getCampos = () => {
 }
 
 fazerLogin = () => {
-    //const name = document.getElementById('inUsername').value;
-    //const password = document.getElementById('inPassword').value;
     const { name, password } = getCampos(); 
 
     if (!name || !password) {
