@@ -30,8 +30,6 @@ async function verifyLogin(name, password) {
         return false;
 
     } finally {
-        //await login.release(); // Fecha a conexão corretamente
-        //login.release(); // Fecha a conexão corretamente
         login.end()
     }
 }
