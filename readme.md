@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Aprender um pouco sobre como integrar Front-End, Back-End e persistir dados no DB localmente.
+Estudar sobre integração Front-End e Back-End, persistir dados no DB localmente e efetuar a atutenticação com JWT.
 
 ## 📌Sobre o Projeto
 
